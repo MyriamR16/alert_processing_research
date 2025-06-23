@@ -1,0 +1,10 @@
+# requirements.txt
+numpy
+pandas
+scikit-learn
+matplotlib
+sentence-transformers
+torch
+transformers
+networkx
+pyvis
